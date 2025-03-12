@@ -107,3 +107,5 @@ Scikit-Learn 🤖
 ✅ Multiple ML Models (Logistic Regression, Naive Bayes, Random Forest, etc.)
 
 ✅ Accuracy & Precision Comparison
+
+**Made by[Afiya Rani]**
